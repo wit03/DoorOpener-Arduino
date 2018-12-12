@@ -2,10 +2,10 @@
 #include <FirebaseArduino.h>
 #include <ESP8266WiFi.h>
 
-#define FIREBASE_URL "shitty-c8eda.firebaseio.com"
-#define FIREBASE_AUTH "FgCXjwAr9JHQjJGx88fKwvIuqo103KoGSFgcTKvK"
-#define WIFI_SSID "wit-iphone"
-#define WIFI_PASSWORD "234567890"
+#define FIREBASE_URL "//your FIREBASE_URL"
+#define FIREBASE_AUTH "//your FIREBASE_AUTH"
+#define WIFI_SSID "//WiFI SSID"
+#define WIFI_PASSWORD "//WiFi PASSWORD"
 
 int i = 1;
 const int CloseAngle = 90;
